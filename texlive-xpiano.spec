@@ -1,6 +1,6 @@
 Name:		texlive-xpiano
 Version:	61719
-Release:	1
+Release:	2
 Summary:	An extension of the piano package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpiano
