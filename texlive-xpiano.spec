@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	An extension of the piano package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xpiano
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xpiano
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xpiano.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xpiano.doc.r%{version}.tar.xz
